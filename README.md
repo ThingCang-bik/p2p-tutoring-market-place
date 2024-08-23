@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/72d5d02d-719e-467f-8f8c-09572e9f232f)
 
 # P2P Tutoring Marketplace
 
@@ -21,8 +22,9 @@ The P2P Tutoring Marketplace aims to revolutionize the educational landscape by 
 
 **Contract Address**: 
 
-- **Network**: [Specify Testnet/Mainnet Name]
-- **Contract Address**: [0xd9145CCE52D386f254917e481eB44e9943F39138]
+- **Contract Address**: 0xd9145CCE52D386f254917e481eB44e9943F39138
+- ![image](https://github.com/user-attachments/assets/39247284-7546-41ac-9f30-f17d7f4e173a)
+
 
 The contract is deployed on the Ethereum blockchain and handles all operations related to tutor registration, session management, and payment distribution.
 
